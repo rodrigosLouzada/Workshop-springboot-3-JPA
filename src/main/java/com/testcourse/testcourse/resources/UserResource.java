@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.testcourse.testcourse.entites.User;
+import com.testcourse.testcourse.entities.User;
 
 @RestController
 @RequestMapping(value = "/users")
